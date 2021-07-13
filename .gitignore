@@ -1,7 +1,6 @@
 *.log
 *.pot
 *.pyc
-*.mo
 *egg-info*
 .Python
 bin/*
